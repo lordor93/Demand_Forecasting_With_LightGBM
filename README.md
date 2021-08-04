@@ -1,4 +1,4 @@
-# Store Item Demand_Forecasting WithLightGBM
+# Store Item Demand Forecasting WithLightGBM
 
 ![Demand-Planning-sm](https://user-images.githubusercontent.com/13394756/128167106-6eb681f6-e870-4ab2-be38-0831ec906e24.jpg)
 
